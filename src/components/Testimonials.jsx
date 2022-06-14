@@ -14,10 +14,10 @@ export default function Testimonials() {
             asperiores eaque.
           </p>
           <div className="info">
-            <img src={avatarImage} alt="" />
+            {/* <img src={avatarImage} alt="" /> */}
             <div className="details">
-              <h4>Kishan Sheth</h4>
-              <span>CEO - Shashaan Web Solutions</span>
+              <h4>Dron</h4>
+              <span>CEO - Dron web</span>
             </div>
           </div>
         </div>
@@ -27,10 +27,10 @@ export default function Testimonials() {
             asperiores eaque.
           </p>
           <div className="info">
-            <img src={avatarImage} alt="" />
+            {/* <img src={avatarImage} alt="" /> */}
             <div className="details">
-              <h4>Kishan Sheth</h4>
-              <span>CEO - Shashaan Web Solutions</span>
+              <h4>Dron</h4>
+              <span>CEO - Dron web</span>
             </div>
           </div>
         </div>
@@ -40,10 +40,10 @@ export default function Testimonials() {
             asperiores eaque.
           </p>
           <div className="info">
-            <img src={avatarImage} alt="" />
+            {/* <img src={avatarImage} alt="" /> */}
             <div className="details">
-              <h4>Kishan Sheth</h4>
-              <span>CEO - Shashaan Web Solutions</span>
+              <h4>Dron</h4>
+              <span>CEO - Dron Web </span>
             </div>
           </div>
         </div>
