@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TRAVEL-APP/static/css/main.967a31e5.css",
-    "main.js": "/TRAVEL-APP/static/js/main.2641855e.js",
+    "main.js": "/TRAVEL-APP/static/js/main.ccdd5a9d.js",
     "static/media/hero.png": "/TRAVEL-APP/static/media/hero.decd6e523fe133c3c563.png",
     "static/media/avatarImage.jpeg": "/TRAVEL-APP/static/media/avatarImage.d37df0395195993244c9.jpeg",
     "static/media/Destination5.png": "/TRAVEL-APP/static/media/Destination5.8db742a0db2114f7116a.png",
@@ -12,10 +12,10 @@
     "static/media/Destination3.png": "/TRAVEL-APP/static/media/Destination3.b4028caa98dffd19d08e.png",
     "index.html": "/TRAVEL-APP/index.html",
     "main.967a31e5.css.map": "/TRAVEL-APP/static/css/main.967a31e5.css.map",
-    "main.2641855e.js.map": "/TRAVEL-APP/static/js/main.2641855e.js.map"
+    "main.ccdd5a9d.js.map": "/TRAVEL-APP/static/js/main.ccdd5a9d.js.map"
   },
   "entrypoints": [
     "static/css/main.967a31e5.css",
-    "static/js/main.2641855e.js"
+    "static/js/main.ccdd5a9d.js"
   ]
 }
